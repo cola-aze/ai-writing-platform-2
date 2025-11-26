@@ -1,0 +1,5 @@
+[00:00:01.787] Server  LOG      ✓ Ready in 1231ms
+[00:00:05.025] Server  LOG      ○ Compiling /write ...
+[00:00:10.342] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:10.342] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/write","route":"/write"}
+[00:00:10.342] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3001/write color: rgb(120, 120, 120) color: inherit {"dp":"/write","o":"http://localhost:3001/write","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764157829240}
